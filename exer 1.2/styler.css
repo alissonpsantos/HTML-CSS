@@ -1,0 +1,21 @@
+@charset "UTF-8" ;
+
+body {
+    background-color: black;
+}
+h1 {
+    background-color: brown
+}
+p {
+    color: beige;
+
+}
+h1 {
+    background-color: brown;
+    text-align: center;
+}
+.hub {
+    color: beige;
+    
+
+}

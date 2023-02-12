@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.Menu {
+  list-style: none;
+  padding: 0px; 
+justify-content: space-between;
+}
+h1, li {
+  display: flex;
+  justify-content: space-between;
+}

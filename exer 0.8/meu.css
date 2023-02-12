@@ -1,0 +1,15 @@
+@charset "UTF-8" ;
+
+body, ul {
+background-color: black;
+margin: 0px;
+padding: 0px;
+}
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+h1 {
+background: purple ;
+
+}
